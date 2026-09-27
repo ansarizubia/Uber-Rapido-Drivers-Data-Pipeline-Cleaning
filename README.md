@@ -36,7 +36,7 @@ The raw dataset contains approximately 50,000+ records related to Uber and Rapid
 - Completion and cancellation rates.
 - Other operational attributes.
 
-### Data Cleaning Process
+#### Data Cleaning Process
 1. **Data quality report (before)** — checked null counts, duplicate rows,
    data types, and value-range anomalies across all columns.
 
@@ -74,7 +74,7 @@ The raw dataset contains approximately 50,000+ records related to Uber and Rapid
 
 10. **Export** — saved the cleaned dataset to a new CSV file.
 
-### Tech Stack
+#### Tech Stack
 - Microsoft Excel
 - Python
 - pandas, NumPy
